@@ -32,6 +32,7 @@ python-dotenv (do obsługi pliku .env z kluczem API)
 Zainstaluj zależności
 
 pip install -r requirements.txt
+
 Utwórz w głównym folderze `api/` plik `.env` z Twoim kluczem API:
 
 
