@@ -1,4 +1,4 @@
-###🧠 QuizAI & Chatbot – projekty z OpenAI API
+###🧠 QuizAI & Chatbot – projekty z OpenAI API###
 
 ##📄 Opis projektu
 
