@@ -1,5 +1,5 @@
 ### 🧠 QuizAI & Chatbot – projekty z OpenAI API
-📄 ## Opis projektu
+## 📄Opis projektu
 
 Repozytorium zawiera dwa mini-projekty napisane w Pythonie, które wykorzystują OpenAI API:
 
@@ -33,7 +33,7 @@ Zainstaluj zależności
 
 pip install -r requirements.txt
 
-Utwórz w głównym folderze `api/` plik `.env` z Twoim kluczem API:
+Utwórz w głównym folderze plik `.env` z Twoim kluczem API:
 
 
 ## Uruchom quiz
