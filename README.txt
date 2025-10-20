@@ -1,25 +1,32 @@
-🧠 QuizAI & Chatbot – projekty z OpenAI API
-📄 Opis projektu
+###🧠 QuizAI & Chatbot – projekty z OpenAI API
+
+##📄 Opis projektu
 
 Repozytorium zawiera dwa mini-projekty napisane w Pythonie, które wykorzystują OpenAI API:
 
-QuizAI – interaktywny quiz z pytaniami generowanymi przez sztuczną inteligencję.
+
+
+**QuizAI** – interaktywny quiz z pytaniami generowanymi przez sztuczną inteligencję.
 
 Użytkownik wybiera kategorię.
 
 AI zadaje kolejne pytania (A–D).
 
-Program ocenia odpowiedzi i na koniec wystawia krótką ocenę wyniku (bez słodzenia 😎).
+Program ocenia odpowiedzi i na koniec wystawia krótką ocenę wyniku.
 
-Chatbot – prosty chatbot korzystający z modelu OpenAI.
+
+
+
+**Chatbot** – prosty chatbot korzystający z modelu OpenAI.
 
 Pozwala na swobodną rozmowę.
 
 Uczy się kontekstu w trakcie sesji.
 
-Działa w terminalu (CLI).
 
-⚙️ Technologie
+
+
+##⚙️ Technologie
 
 Python 3.10+
 
@@ -27,18 +34,21 @@ OpenAI API
 
 python-dotenv (do obsługi pliku .env z kluczem API)
 
-Uruchomienie projektu
+
+
+
+##Uruchomienie projektu:
 
 Zainstaluj zależności
 
 pip install -r requirements.txt
 
 
-Uruchom quiz
+##Uruchom quiz
 
 python QuizAi/QuizAI.py
 
 
-Uruchom chatbota
+##Uruchom chatbota
 
 python Chatbot/First_chatbot_ai.py
