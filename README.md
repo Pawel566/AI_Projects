@@ -19,7 +19,7 @@ Uczy się kontekstu w trakcie sesji.
 
 Działa w terminalu (CLI).
 
-⚙️ Technologie
+## ⚙️ Technologie
 
 Python 3.10+
 
@@ -27,18 +27,18 @@ OpenAI API
 
 python-dotenv (do obsługi pliku .env z kluczem API)
 
-Uruchomienie projektu
+## Uruchomienie projektu
 
 Zainstaluj zależności
 
 pip install -r requirements.txt
 
 
-Uruchom quiz
+## Uruchom quiz
 
 python QuizAi/QuizAI.py
 
 
-Uruchom chatbota
+## Uruchom chatbota
 
 python Chatbot/First_chatbot_ai.py
