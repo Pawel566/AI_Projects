@@ -1,6 +1,5 @@
-###🧠 QuizAI & Chatbot – projekty z OpenAI API###
-
-##📄 Opis projektu
+### 🧠 QuizAI & Chatbot – projekty z OpenAI API
+## 📄 Opis projektu
 
 Repozytorium zawiera dwa mini-projekty napisane w Pythonie, które wykorzystują OpenAI API:
 
